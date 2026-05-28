@@ -30,5 +30,3 @@
 
    - Implement the endpoint `/posts` that supports CRUD operations. Please reference [JSONPlaceholder](https://jsonplaceholder.typicode.com/#:~:text=the%20full%20list.-,Routes,-All%20HTTP%20methods)
    - For now, you may use a globalVariable to save information in the server. This global data you can manipulate using the CURD operations. 
-
-
